@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HelenEmmett
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react and sharpening up my javascript, HTML & CSS, and in my final semester of a computer science degree
-- 💞️ I’m looking to collaborate on projects with user interaction, react projects
-- 📫 How to reach me helen.emmett@gmail.com
+- 🌱 I’m a Computer Science & Fine Arts graduate with a background in design, marketing, and creative events.
+- 💞️ I’m passionate about combining creativity with technology to solve problems and design meaningful digital experiences.
 - 😄 Pronouns: she/her
 
 <!---
